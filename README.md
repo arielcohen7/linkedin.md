@@ -29,4 +29,30 @@ If it sounds built: rewrite.
 If it sounds said: ship.
 ```
 
-About 60% of my drafts fail it. That's the point of writing it down.
+Most drafts fail it. That's the point of writing it down.
+
+## Hooks
+
+> A hook is a contract. The first line is the term sheet.
+
+The post promises something. The hook is the promise.
+
+### Rules
+
+- **Name something.** A company, a person, a moment. "I learned" is not a hook. "30,000 Oracle employees got a 6AM email" is.
+- **Make a claim.** If swapping one noun makes the hook work for any topic, it's not earning its place.
+- **No question hooks.** "Agree?" is a beggar's frame. State the position.
+- **Cut the throat-clearing.** "I've been thinking about..." — just say the thing.
+- **The first sentence does one job:** make the second sentence inevitable.
+
+### The test
+
+```text
+Could this hook open a different post?
+If yes, rewrite.
+If no, ship.
+```
+
+The hooks I'm most proud of all answer "no." The ones I regret almost never do.
+
+---
